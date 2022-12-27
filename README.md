@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Everything which is help me to grow**
 
-- ⚡ Fun fact **Nothing is important to remember**
+- ⚡ Fun fact **Nothing is Important to Remember**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
