@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Prajapati</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer From India</h3>
 
 - 🌱 I’m currently learning **Everything which is help me to grow**
 
